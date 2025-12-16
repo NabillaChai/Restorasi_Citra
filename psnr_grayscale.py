@@ -223,5 +223,3 @@ autolabel(bars4)
 
 plt.tight_layout()
 plt.show()
-
-print("\n🎨 Visualisasi selesai!")
